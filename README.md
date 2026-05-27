@@ -75,7 +75,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-### 4. Eksekusi Migrasi & Penyemaian Data (Tugas 1 & Tugas 2)
+### 4. Eksekusi Migrasi & Penyemaian Data 
 
 Jalankan perintah mutakhir ini untuk menghapus tabel lama, memigrasikan skema baru `orders`/`order_items`, dan mengisi database melalui `ProductSeeder`:
 
@@ -83,7 +83,7 @@ Jalankan perintah mutakhir ini untuk menghapus tabel lama, memigrasikan skema ba
 php artisan migrate:fresh --seed
 ```
 
-### 5. Pengujian Query Eloquent (Tugas 3)
+### 5. Pengujian Query Eloquent 
 
 Masuk ke mode interaktif Laravel Tinker:
 
