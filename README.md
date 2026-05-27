@@ -17,9 +17,9 @@ Repositori ini dikembangkan sebagai pemenuhan **Tugas Praktikum Pemrograman Web 
 
 ---
 
-## 🛠️ Riwayat Implementasi Fitur Tugas
+## 🛠️ Riwayat Implementasi Fitur 
 
-### 🔹 Tugas 1: Arsitektur Tabel `orders` & `order_items` 
+### 🔹  1: Arsitektur Tabel `orders` & `order_items` 
 
 Menambahkan sistem pencatatan transaksi belanja dengan skema database yang ternormalisasi:
 
@@ -30,7 +30,7 @@ Menambahkan sistem pencatatan transaksi belanja dengan skema database yang terno
     - `Order` ➡️ _hasMany_ ➡️ `OrderItem`
     - `OrderItem` ➡️ _belongsTo_ ➡️ `Product`
 
-### 🔹 Tugas 2: Otomatisasi Seeder Data 
+### 🔹  2: Otomatisasi Seeder Data 
 
 Membuat data awal ke database agar siap digunakan untuk kebutuhan testing (_automated seed testing_) dengan kriteria:
 
@@ -39,7 +39,7 @@ Membuat data awal ke database agar siap digunakan untuk kebutuhan testing (_auto
 - **`Tag`:** Minimal 10 entitas tag.
 - **Pivot Relationship:** Menghubungkan setiap produk ke 2-4 entitas tag secara acak memanfaatkan metode `attach()`.
 
-### 🔹 Tugas 3: Query Eloquent Lanjutan 
+### 🔹  3: Query Eloquent Lanjutan 
 
 Menyelesaikan visualisasi data menggunakan sintaks Eloquent murni di dalam lingkungan **Laravel Tinker**:
 
