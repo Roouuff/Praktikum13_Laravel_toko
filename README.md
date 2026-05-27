@@ -151,5 +151,5 @@ Seluruh source code di dalam repositori ini dapat digunakan sebagai:
 
 Diperbolehkan untuk memodifikasi, mempelajari, dan mengembangkan proyek ini lebih lanjut untuk kepentingan edukasi dengan tetap mencantumkan atribusi kepada pengembang asli.
 
-> © 2025 — Praktikum Pemrograman Web Advanced  
+> © 2026 — Praktikum Pemrograman Web Advanced  
 > Dibangun menggunakan Laravel 11/12 dan MySQL untuk kebutuhan pembelajaran akademik.
